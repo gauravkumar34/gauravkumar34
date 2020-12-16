@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Spring**
 
-- 👨‍💻 All of my projects are available at [https://gauravkumar34.github.io/portfolio/](https://gauravkumar34.github.io/portfolio/)
+- 👨‍💻 My Portfolio [https://gauravkumar34.github.io/portfolio/](https://gauravkumar34.github.io/portfolio/)
 
 - 💬 Ask me about **Node, JavaScript, Java, Data Structure**
 
