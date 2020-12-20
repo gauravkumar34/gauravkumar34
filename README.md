@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I think I am funny**
 
+- ✍ Quote **The only way to go fast, is to go well.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
