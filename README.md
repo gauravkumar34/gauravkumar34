@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **StackRoute**
 
-- 🌱 I’m currently learning **Java, JavaScript, Node, MongoDB, Spring, DSA**
+- 🌱 I’m currently learning **Java, JavaScript, Node, MongoDB, Angular, Spring, DSA**
 
 - 👨‍💻 My Portfolio [https://gauravkumar34.github.io/portfolio/](https://gauravkumar34.github.io/portfolio/)
 
