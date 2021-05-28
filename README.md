@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working in **StackRoute**
+- 🔭 I’m currently working in **Tata Consultancy Services**
 
 - 🌱 I’m currently learning **Java, JavaScript, Node, MongoDB, Angular, Spring, DSA**
 
