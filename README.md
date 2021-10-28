@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **Angular, Java**
 
+- � <a href="https://www.smartr.me/public/profiles/gaurav.kumar928"  target="blank">Smartr Resume</a>
+
 - 📫 How to reach me **urwidgaurav@gmail.com**
 
 - 📄 Know about my experiences [https://gauravjaiswal.netlify.app/](https://gauravjaiswal.netlify.app/)
