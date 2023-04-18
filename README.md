@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
 <h3 align="center">A passionate MEAN and Java Full developer from India</h3>
+- 🔭 I’m currently working in **LOCOBUZZ SOLUTIONS PRIVATE LIMITED**
 
-- 🔭 I’m currently working in **Tata Consultancy Services**
+- 🔭 I was worked in **Tata Consultancy Services**
 
 - 🔭 I’m currently working on [Whealthylife](https://whealthylife.in/) as Freelancer. 
 
