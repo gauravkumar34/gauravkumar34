@@ -5,7 +5,7 @@
 
 - 🔭 I was worked in **Tata Consultancy Services**
 
-- 🔭 I’m currently working on [Universal Sompo General Insurance Co. Ltd](https://www.universalsompo.com/) as Freelancer. 
+- 🔭 I’m currently worked on [Universal Sompo General Insurance Co. Ltd](https://www.universalsompo.com/) as Freelancer. 
 
 - 🌱 I’m currently learning **Node**
 
