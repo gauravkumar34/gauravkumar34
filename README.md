@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **urwidgaurav@gmail.com**
 
-- 📄 Know about my experiences [[[https://gauravjaiswal.netlify.app/](https://gaurav-kumar.netlify.app/#/)](https://gaurav-kumar.netlify.app/#/)](https://gaurav-kumar.netlify.app/#/)
+- 📄 Know about my experiences[(https://gaurav-kumar.netlify.app/#/)](https://gaurav-kumar.netlify.app/#/)
 - ✍ CodeWars -<a href="https://www.codewars.com/users/gauravkumar34" target="_blank"> <img src="https://www.codewars.com/users/gauravkumar34/badges/large" alt="codewar" width="300" height="50"/> </a>
 
 <h3 align="left">Connect with me:</h3>
